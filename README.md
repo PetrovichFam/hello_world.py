@@ -1,2 +1,2 @@
 # hello_world.py
-new
+print("Hello from Alice!")
